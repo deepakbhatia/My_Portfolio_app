@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="action_about">About</string>
+    <string name="launch_capstone_app">Launch Capstone App</string>
+    <string name="launch_go_ubiquitous_app">Launch Go Ubiquitous App</string>
+    <string name="launch_material_design_app">Launch Material Design App</string>
+    <string name="launch_build_it_bigger_app">Launch Build It Bigger App</string>
+    <string name="launch_stock_hawk_app">Launch Stock Hawk App</string>
+    <string name="launch_popular_movies_app">Launch Popular Movies App</string>
+    <string name="app_launch_toast_message">The app %1$s will open</string>
+    <string name="stock_hawk">Stock Hawk</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="make_your_app_material">Make Your App Material</string>
+    <string name="go_ubiquitous">Go Ubiquitous</string>
+    <string name="capstone">Capstone</string>
+    <string name="build_it_bigger">Build It Bigger</string>
+    <string name="about">About</string>
+    <string name="licence_image"><div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank" title="Creative Commons BY 3.0">CC 3.0 BY</a></div></string>
+    <string name="title_activity_about">About</string>
+</resources>
